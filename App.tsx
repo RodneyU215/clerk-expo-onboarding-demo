@@ -8,8 +8,7 @@ import { tokenCache } from './cache';
 import * as SplashScreen from 'expo-splash-screen';
 
 // Your publishable Key goes here
-const publishableKey =
-  'pk_test_bW9kZXN0LXBpZ2Vvbi03NS5jbGVyay5hY2NvdW50cy5kZXYk';
+const publishableKey = 'pk_test_XXXXXXXX';
 
 export default function App() {
   const isLoadingComplete = useCachedResources();
